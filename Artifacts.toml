@@ -1,487 +1,487 @@
 [[Dierckx]]
 arch = "aarch64"
-git-tree-sha1 = "85448cda87cefb788b803c585e947ffd3481db0f"
+git-tree-sha1 = "8089f3ae963cf224afb7893165ee689eabc36b16"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[Dierckx.download]]
-    sha256 = "2487401012185559cba8673798b87c20b8aee5db215a41a3117bfc8348223046"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "817b18bf37a2bc00eb6e3b78dcaa00e3f8543df37b2c942ae144b8da8b6069f5"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[Dierckx]]
 arch = "aarch64"
-git-tree-sha1 = "3aa05ca32bc7d7bac659788f3eaca7042e9c9ec0"
+git-tree-sha1 = "56b9f4e9eb5b75a2f68415439dcc93d2f6969228"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "c441c38f691171b3f7bcc0c936535478c8c8342c41db669d4a8da0d269dbbe7d"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.aarch64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "534a14d1fd92f448e7358a4d7bf8bdc6fe0347589867509b3337fd68715f9ab9"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[Dierckx]]
 arch = "aarch64"
-git-tree-sha1 = "b85d216b93196ce36b4ef118cc952d44c6baf974"
+git-tree-sha1 = "48162c1932352146df85b6aa007a896d07430ac9"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "58e3d541830e3baac022ec42b56b013d0a618039a722e27d8fc04bebd6cae03d"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.aarch64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "133872d81215936ed7bed530671c72dfe024a8896b0d832738aaaa27dc7ca209"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[Dierckx]]
 arch = "aarch64"
-git-tree-sha1 = "623adc28e3260dda5b7b842d3ec9ec242ff34c81"
+git-tree-sha1 = "48c35e3d4cf1eb1d056af3f66fb295b182669dff"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "5e67bd86acea7259b286827e6964e9c0564467933169dd0a182453f1d68f0dbe"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "e19a22b78d12729d4cc7ad04d73536a3c13f51e5f747b24a9b1ea0ba8ac25430"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[Dierckx]]
 arch = "aarch64"
-git-tree-sha1 = "ceb39285c5453a391a7733bee926c0bb40e9be50"
+git-tree-sha1 = "7127455b13cde40c82ae023e13856d068083a405"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "7488c96f951189b40309ed01e2165940918945d99cf05b69d19db5e73a9a7936"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.aarch64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "0e6650b643c85db00d951e7fc57e444dc35f1d55a2ebc874e4d3ac1c54b5b471"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.aarch64-linux-musl-libgfortran3.tar.gz"
 [[Dierckx]]
 arch = "aarch64"
-git-tree-sha1 = "b2ff8a67e8856ae25409a4f1099b16e4f165a6b5"
+git-tree-sha1 = "07285f618e646cea87e1128e75bc736adfe681ac"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "1fae0d42bc676a0b23c164b6d5f954249200b71de001fdcbf43b34f0dd186ca7"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.aarch64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "e5089f2b598881f2717e5cf01dec49342b66523c0800cce5acda36f637834e5b"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.aarch64-linux-musl-libgfortran4.tar.gz"
 [[Dierckx]]
 arch = "aarch64"
-git-tree-sha1 = "361ba195708f9a8b1d3586d5697563f44d6f4f9d"
+git-tree-sha1 = "1509fa1a358deb90f44e11be6e591755d41d6917"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "88f2ec3da95c568d35e09d66bdcb1bf6ced90972b9bbf0aa46b7d8bfa4e29cb1"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "612381d036822a02a870dbbfd9badcc3a63d0f793c0acc172050c3e3e73511fb"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.aarch64-linux-musl-libgfortran5.tar.gz"
 [[Dierckx]]
 arch = "aarch64"
-git-tree-sha1 = "b2e3629867b4557de75af0d7e18ddc26af0b2735"
+git-tree-sha1 = "d3f035bc564d26254c3a16fdf77e28a443a7f4fa"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[Dierckx.download]]
-    sha256 = "1743f558f77cdc928f543243a717b63ee0555071b94c32dadccfc2a7e389f50f"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.aarch64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "b3388fe659949a11de4aa0d565d8e47a35e6de0ada7f6fc0854774386a99b2c8"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.aarch64-unknown-freebsd-libgfortran4.tar.gz"
 [[Dierckx]]
 arch = "aarch64"
-git-tree-sha1 = "6ea12bb6ae438cb7bbe038954cdada2b52e1ed2d"
+git-tree-sha1 = "369b8c3b4611e62855ecc4d1d9a7a279d90670d7"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[Dierckx.download]]
-    sha256 = "cd6a0e429907143bc0612cab8de12af80c4e7156b83127942d562e79be4faf1a"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "0e9f48eb1f24662bce7b72e9744366403aaefa114d028ae41baf648158e70fc4"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.aarch64-unknown-freebsd-libgfortran5.tar.gz"
 [[Dierckx]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "426e256b68e7be3ad659c35f7c5edcf3f90b30d3"
+git-tree-sha1 = "dec74c5e36ff5bfcb19ae36a7ca613c73bd5dad6"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "0c9ffa423511fbbb6ce8f80064c79cd242d4de7175d8f05dfb28c900c41b4d24"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "2afc446381d6e64ed8b6b39dd351058ee7e224c206071252e2c779ca555c5ac9"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
 [[Dierckx]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "67cbcdb2df033fb75ba1ea404d9c896ba57f0d2d"
+git-tree-sha1 = "ddf8a9e1eb0dd45d8f83a1e4b8146761708b8aea"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "f635ebb04b1a5c1862d6fc2c9d5b64b8ea349927387019b3f343255d72822550"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "c412bb8390c70abbe41e7c211d25965825fd5f5e421a335144ef4c925a8157ae"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
 [[Dierckx]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "a4f917777788abe9fa957345379ffbbc33500e29"
+git-tree-sha1 = "3464f2169f1ca8987a6b267f4bcd2aa300d31153"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "8c904f6c94658952f9c62efbefb032f3290bd63567cc1d6df099412daca963db"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "06e5e59c9380074cdf4f12bfeffc33aa690acd9f77706c2f4bb1d2067eb3dbfc"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[Dierckx]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "be5cc6545ec9223a1662057b81bf0a65ec740763"
+git-tree-sha1 = "a9497046c903166fa25e19722c7e47c3e3403253"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "4f9df7abe748c54e71975f610c260959a4414cd3bf0012ae498be7fbdf8c279b"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "44e19a88c7aa41e497a4a12e86d285609f7fefb356e23e846d52804681eef017"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
 [[Dierckx]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "1fb4fec7841187b56a11243aa92a660c6bb7baaf"
+git-tree-sha1 = "9be35486bfb2e982a76a042a8828b09e72ed4a10"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "94cfb8729766f4d1244fc1f449a8f72f07cd2bcd1a9207e124a34bb2061142bc"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "33747c0ad1176999d5557516cdb3dadfa8b4c1ad3a054b246c9df5e5472c8332"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
 [[Dierckx]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "fab8c9caf80de20753d66acaccf16d757d25d6c9"
+git-tree-sha1 = "f40018eb56fb4c98885dfcf5c99b42ff7f38e043"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "9f13211d058e5bfbb43600e58c2ebf7d43f613ed9a06048acad18494769ec7ca"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "1d8ce1d4bd30ab7b63480ca850a53bc56426be7a9ce230f6cdf365f8e89854c4"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[Dierckx]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "f4d366467304fe571f5ffc506fbda1b4ff3ebc30"
+git-tree-sha1 = "5436d704428110d7341085812b10f242be829594"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "ad29c4cc6029d7e0257e3e5b942e77771d717027fd1733eacec16364181c35a5"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "0e914332aa5237359212ca37d6a83cfa2e2d799dc228adaa7d70c28f1fc0846d"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
 [[Dierckx]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "2254de0ae00e3f64504e96eb5ae27a1d542133e0"
+git-tree-sha1 = "73afc76cefc29fb9122199f1bf34183a310e4bf8"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "187319434d3004cabd61fb1401c5e183450e5b01938b0270435fc43871184c5f"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "4a3ad3522c9fd9d901edf95e6cb079826c90f0940d32a4e7c5c0a3f798fbea8d"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[Dierckx]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "ab96fe87410bc2a39f8f070f96e840f118712d91"
+git-tree-sha1 = "32668863115b4e2c2d1db8369c86bd679ecff3bf"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "a2399ec2d50281c76940d4d99e4710cc039ccec90ab7f50053560c7ab8acc96f"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "a75237a0d059aeaaa328066bacd48e3f6999eaac9eb979788dc045427dd362b7"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[Dierckx]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "3d87e978731e2b7dfe270995434b27dd0f6ef8a1"
+git-tree-sha1 = "6cde30e713e15c9f4fdffb7db68ba8a7a7260481"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "9ae4de811295200db61d5c9dd03056290de8198fc5b15a5720b272acc1d76bc7"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "10ab4fc58eb18dd41677effd213219176c3460031ca47462f413b4fc54528813"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
 [[Dierckx]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "dd9edf57497f38108185716b67c6de8a49e89d53"
+git-tree-sha1 = "302c829084bd57621e9f306e561d79140f44a51a"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "156538eaa6e23d58078f17ad974473700137ef1dccce4c5da68844371b1a7825"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "2fc85b402319e2184b61ce82e082d3c263bab1069e595e49debf77fbc302b607"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[Dierckx]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "65eae9796d773e43c49512e6306c62494654d6fd"
+git-tree-sha1 = "859415bcd8e6e135f00c5f3135c584272f8d0ee1"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "7b5d0cc7ce9ee632e39047a55c8d613b1f7065aaf0498751624b4efa5886f6f7"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "c32dc19edc70f7dbfc0968cde1576f8e199bc1f0690ddbc9e92fa77868bbe2c3"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[Dierckx]]
 arch = "i686"
-git-tree-sha1 = "494b6175228bf40d677d06255e27fd4aff4a5bb6"
+git-tree-sha1 = "c9a97646fef96ff1cd3440047b88daf0e8cde83b"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "a98e1217ad0ec99c2afdf4398f51d43b5a0c385ee8feec7adcf18cadff05f28b"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.i686-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "5dd0cef11815a1962f677a0f9508b4a6fb81c6f233a91a1bbc7fb8dbeae39569"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.i686-linux-gnu-libgfortran3.tar.gz"
 [[Dierckx]]
 arch = "i686"
-git-tree-sha1 = "a77ade1f328612823c536fd964790517bcbca253"
+git-tree-sha1 = "a64b3fc8e9b87fee25ee11e867bca3f2553e2a7e"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "4a76df22837be840220e78ae6f49c4dc70e26d4e890bf304a654d3e5876696bd"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.i686-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "076f29a11d70d66181579e98d254b3918bd734e2cb39a5195c2c9dbe096df84b"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.i686-linux-gnu-libgfortran4.tar.gz"
 [[Dierckx]]
 arch = "i686"
-git-tree-sha1 = "a1b4c7aa48ba4002cc42924a4ef3408f2fba874b"
+git-tree-sha1 = "65c2e37ca852fa8e9b82e0e315d349a1321125e5"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "60ff62091c5fdd14a61feec55adfc89d9db615e32a180b12872484647a9abf0f"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "de69d88c709f7389f9d738a66a546aa4caef65b0c51e5a0698afd7baab5fd405"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.i686-linux-gnu-libgfortran5.tar.gz"
 [[Dierckx]]
 arch = "i686"
-git-tree-sha1 = "48df31ac7cb335cc42794a04b4f87fb6d0e3a64b"
+git-tree-sha1 = "178163101bda73dce6f7561225b60ebf7353296f"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "87fbeca12a2e352524612bd624d420660d2cae0f30fb05e20d9ad710aadeea71"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.i686-linux-musl-libgfortran3.tar.gz"
+    sha256 = "e078d5ec21faefafefb5b8bf86292366981796f66f9aa34238ff39074b700321"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.i686-linux-musl-libgfortran3.tar.gz"
 [[Dierckx]]
 arch = "i686"
-git-tree-sha1 = "d9004cef31e002a9989d91a09d969b57b2a054a1"
+git-tree-sha1 = "66ad003cfb6e259b7e50578aca5bdf70eef96f57"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "513c0b7c576a549cb1cdb78b1980fc9ae8882c1fcc9d0271742b46bcd1f690f5"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.i686-linux-musl-libgfortran4.tar.gz"
+    sha256 = "81dfcd66243fef81410bc19087851a67152ef51f963d07102061fd2361f4b595"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.i686-linux-musl-libgfortran4.tar.gz"
 [[Dierckx]]
 arch = "i686"
-git-tree-sha1 = "504a45562db32861a4ec73703bc89fb3feddd95e"
+git-tree-sha1 = "04a7edd7cbcca1878b4ef37532ab4327355ac171"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "d2035f344a9b498fba58a589bef8a060486bdebc7c306f2a036471a1807cbfe4"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "cbc2d2feee861cc31744e2eaf25aca16fdccca56a7649682f1d9b77e85219b29"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.i686-linux-musl-libgfortran5.tar.gz"
 [[Dierckx]]
 arch = "i686"
-git-tree-sha1 = "a2e6fe1898206db2251b0c4ae2373f91463a38fb"
+git-tree-sha1 = "e93531a3c588d034db1583fa4c4114e07829d992"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[Dierckx.download]]
-    sha256 = "295d424fc088a3a4b7ad7a00e25c0ac583602113e6828b01f223ddc1bcf1b4ba"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.i686-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "f3f0284f5b59cf31c9b25ee7d8962e128d5449114cc56cb9cb437a6cd89c0860"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.i686-w64-mingw32-libgfortran3.tar.gz"
 [[Dierckx]]
 arch = "i686"
-git-tree-sha1 = "4d189cae35896eccdfe3ccc4d8aeecbe66219968"
+git-tree-sha1 = "60097ff5f605615499b6728b0d459df71a2a4ccc"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[Dierckx.download]]
-    sha256 = "3198d0a1e6d89f7808d3d693618ea55998d1bfdf08ed6e2d7d3dc2dc22c5c9eb"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.i686-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "df3d0f48133e626cd91addc56c0c9fabfdbe609810dd3c28944ba8f180a21cea"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.i686-w64-mingw32-libgfortran4.tar.gz"
 [[Dierckx]]
 arch = "i686"
-git-tree-sha1 = "52b2c8758a3a9fc9ad3441dda9d758cdfb50d9fd"
+git-tree-sha1 = "2c5cc942bfe61fdc7103e86daeb23e480bed21c9"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Dierckx.download]]
-    sha256 = "f27ba0ad43cb6a752e18cc230456faeccfc35226e024adc5a2be06d5b7c02d0b"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "cda7c143d2866eade32ce5d0d942fc43b999b83c7c69cd789d14571ee109303f"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.i686-w64-mingw32-libgfortran5.tar.gz"
 [[Dierckx]]
 arch = "powerpc64le"
-git-tree-sha1 = "950102f8d55c05ad128d68aea26baeec7a7f2286"
+git-tree-sha1 = "abc21d7bbf1e5ef058528b5a4d1b25543cdb04ec"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "26b749cbdbea608a9cc25e3ecc28d67cdd3b17e05a682aa97cde01255cca9a66"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "288384318660f44ae58697b40ca75a924e0a574862af324e2665119c0df6412f"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
 [[Dierckx]]
 arch = "powerpc64le"
-git-tree-sha1 = "95675384520449e4664f69dd5ca1a9fc603de008"
+git-tree-sha1 = "631a7cf9e7834234f3ce24271383dcf0d0f74a2b"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "9d96932bfb142059c67dd96d543071008f5f6d5f9161775ca2be1b088e20caae"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "3faabb97b52913fd869b6bbdaec8af15780c8d11ed23a83bfd301229b13ee644"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[Dierckx]]
 arch = "powerpc64le"
-git-tree-sha1 = "2bba8f4e3df47c1772f627912a76f5c19da9eacc"
+git-tree-sha1 = "7d5e475fa4fd15b24d263a1f4b7d97eb751077e8"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "b45e826b318fe4e5a84714918f76863d48d381781f255a453c9f865c035b2609"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "1cf57260b5157f1522c8c873627ab339ef82c2dc01ac1b03d00e00eb704cd712"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[Dierckx]]
 arch = "riscv64"
-git-tree-sha1 = "480359d5ff1b5b4fd15179d95f9cdf5b8ed62321"
+git-tree-sha1 = "556c1fb57e283495d62290544f760532a3924ef4"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "b072f4c7a71f2e1eee75c84747a4d726789bcecd83f873f69d9a6fd80fd13be4"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.riscv64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "2b5c7ed8a9c65a2723a60f7fd4c40f26317d90872dc5d608cb05e4b7f0666d89"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.riscv64-linux-gnu-libgfortran5.tar.gz"
 [[Dierckx]]
 arch = "x86_64"
-git-tree-sha1 = "ed99b5587d4c25e17cb25ac07f35f581e88bdd61"
+git-tree-sha1 = "1193ec0be8725349b5002402492efd20db50b298"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[Dierckx.download]]
-    sha256 = "8773878a6bb32947e9f0814965ffb1e7bfbca739499a083a3fcfa46378aa3805"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.x86_64-apple-darwin-libgfortran3.tar.gz"
+    sha256 = "4584d87812355dedad97fc8fcecda0243ec4d0b579f6aef78701429419c8befa"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[Dierckx]]
 arch = "x86_64"
-git-tree-sha1 = "5cc126e0f23a03ed6dbd9430f4d262a7c4fe3af2"
+git-tree-sha1 = "c8b1ce2fd91d195f940d36ce22dd409b1d32895b"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[Dierckx.download]]
-    sha256 = "8ef30e3eaf02e2f7161f9d9fe2234199d2083b437ad968eb8bbc077497ba77b0"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "7acbc834c8f7e38fda830015fc13be7880e74c39d37db7bba8da350f1343a69a"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[Dierckx]]
 arch = "x86_64"
-git-tree-sha1 = "488405560abaa437aad29e964b87673babbc36ca"
+git-tree-sha1 = "bdd432b2c6ec6f0a9d9b2ee708c1c707854076fd"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[Dierckx.download]]
-    sha256 = "881c8e057e94a99cd6b1b250a011648ec0832297d15ed8ede6ba1526b84eabe1"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "b20886d6bc379bbbc14292362e9258797fcb3198210eac5e9489a0fd06814068"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[Dierckx]]
 arch = "x86_64"
-git-tree-sha1 = "497532aa5d187affd61d08fe333f3d5150efa68c"
+git-tree-sha1 = "47d101ee624e059ccdb716fa7492686e5e34a5aa"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "811d260a0b994a2d74ff1fb61c0be7a81cff4d3dad4d6fe1ae122403afcaed35"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "45b5073eda39f184d3888c4c15a014c2cabe4db974875cdb1c152eb3b4457d17"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[Dierckx]]
 arch = "x86_64"
-git-tree-sha1 = "4f9f1c52f5fa51535d66484b616f3463de26366b"
+git-tree-sha1 = "d6a700aa5e79ba9dfec8bd033d1a3de926219bd9"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "ce8a1595efd20cbc14dd09dda288d41247db823a8d72b0e07a4a1dfa52a3d980"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "1149f200cc73826ea1d5182453349dc2338e6bddf01b9b5eb577b53ac9c415a3"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[Dierckx]]
 arch = "x86_64"
-git-tree-sha1 = "ca4d5ef23f014b64371d44c4e1c0ead00f0b13f1"
+git-tree-sha1 = "84929b756ffb0c74c96cd2779caa935fa733436c"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "63090f404fc28e9e304d5a7effb17187404bf691286f464e94529597f10386b2"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "d4ddbb711b4d0a7cd71ca017c11c9f9205a737c31ebf117d161d44090642067f"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[Dierckx]]
 arch = "x86_64"
-git-tree-sha1 = "d9fc44be9b8a4ff508c736e79ce79be6331a4f95"
+git-tree-sha1 = "dfd0722088df519d09ee5eaa8998b2278bcb7888"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "8a3c217e87e82eecb3e0120af45bb9ede194ea9e451c867a20a9e1b3e42c4eec"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.x86_64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "0e619cdef5e7fb91b2265b50b4bbb70c8457f031f4fa57cb084d695598363c82"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.x86_64-linux-musl-libgfortran3.tar.gz"
 [[Dierckx]]
 arch = "x86_64"
-git-tree-sha1 = "d97c81529432b44ef00de0b90e958dce29112bc2"
+git-tree-sha1 = "b3d214941061039fea417e9fe2d7256391c9ec0a"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "b95b1bbbaf8b354e9d0b4d563b38746eac949b58d63f7f85e8f7648b8ffe3fe8"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "d7e93d20357ceaaf856ed0358b4cc938e4dcf52d009de7d437c5973044a408df"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.x86_64-linux-musl-libgfortran4.tar.gz"
 [[Dierckx]]
 arch = "x86_64"
-git-tree-sha1 = "3207778df5fb1c9fd59c577bae6ee60e303cbeb7"
+git-tree-sha1 = "f425fe439c79528e4ad12c128fad5f7085f9dedb"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Dierckx.download]]
-    sha256 = "c9e1d408e9093816e568c8d374a5071daadb013e56cd6e21f4ff4101b398715d"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "019eecfee8964a52b1d3a20aaed9e9f17b869826211ec1a53f3a2510cb624e78"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.x86_64-linux-musl-libgfortran5.tar.gz"
 [[Dierckx]]
 arch = "x86_64"
-git-tree-sha1 = "d4572a76151e642e408551c4fa78c3fdde4407b5"
+git-tree-sha1 = "38aee367214b487b1d37e6d2a1fead3eb7d86e46"
 libgfortran_version = "3.0.0"
 os = "freebsd"
 
     [[Dierckx.download]]
-    sha256 = "c2ab18fdcaf0f9432bc36aa905d8ba28f2400bef2c9f38796e3a507c32b95940"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+    sha256 = "34e629f57084d21448d544b03c61153fd88bc2c1186f6352335f9588fbaea83f"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
 [[Dierckx]]
 arch = "x86_64"
-git-tree-sha1 = "57449aeec1caa4300f7ed5654b92b8b44fc59910"
+git-tree-sha1 = "1053388d25dda96ff256b63d6ea6f8a1d7a3d8a6"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[Dierckx.download]]
-    sha256 = "7ccfd8cc7c8572f85d5b8b102b7e6eb5ccb1bbe4b44887e8cec132e7f4d65b4e"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "4d272684a7e7afd295410c31d08ae8d78ef3f85c9dc44a262f09facb7bc50a78"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[Dierckx]]
 arch = "x86_64"
-git-tree-sha1 = "c42f2c206079660cd9a17f54c4ceb528a7eed825"
+git-tree-sha1 = "93b986cc19231dc0651854812cbafe54c0a45dc2"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[Dierckx.download]]
-    sha256 = "cc2805ce9e7d41b3dff0b6c325f3fc7251f757b754cb832e441c70345d5b5ad7"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "eec66e03bda428f949d9c4cf0e5c364768f1fef22254876338faf71824caf217"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[Dierckx]]
 arch = "x86_64"
-git-tree-sha1 = "cdae7b3cb08314aae5313b6240bf40f5871d74fd"
+git-tree-sha1 = "a250ebe1a7300af96dbcde7d30c9dc0a8b11855e"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[Dierckx.download]]
-    sha256 = "6b845350ccec5187f2b28ad5c138f14a1148911e3dba202646750c1db32d76d1"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.x86_64-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "f83876dabf9c77d8c95270e9a47f223563cd6d1f1b75258dc9cc0ae4d7678269"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
 [[Dierckx]]
 arch = "x86_64"
-git-tree-sha1 = "0089feb2f82df2ea2497a542ea705d33b5b40625"
+git-tree-sha1 = "211718ef79449067ecd316c463c13f42f3eddf6c"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[Dierckx.download]]
-    sha256 = "204820a764a8d597bc8f88f6bfaa03f7df408591c0e917fd43b1cd114349cf65"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "93842d6a93b2e012dad7d27a2fdecfb95916881f3ab463ba176eb9c4c70c2db3"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[Dierckx]]
 arch = "x86_64"
-git-tree-sha1 = "e57a829fb65c41446638a9f9ab6e0cb20cc31b71"
+git-tree-sha1 = "64edfe63872fd7750e7403a6f22608f4b94121a7"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Dierckx.download]]
-    sha256 = "c61a33bd087c3f92a8d8b8e376f63a95ad6a8c92bc3db082e479ed0f66a1109a"
-    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.1.2+0/Dierckx.v0.1.2.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "4b392005ffea272fa39c79dd0287d368b33d0df250f7347697021bd51d82801d"
+    url = "https://github.com/JuliaBinaryWrappers/Dierckx_jll.jl/releases/download/Dierckx-v0.2.0+0/Dierckx.v0.2.0.x86_64-w64-mingw32-libgfortran5.tar.gz"

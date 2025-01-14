@@ -1,6 +1,6 @@
 name = "Dierckx_jll"
 uuid = "cd4c43a9-7502-52ba-aa6d-59fb2a88580b"
-version = "0.1.2+0"
+version = "0.2.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
